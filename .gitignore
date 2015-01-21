@@ -1,0 +1,13 @@
+*~
+*.class
+.pydevproject
+.settings
+.DS_Store
+target
+*.swp
+*.pyc
+findbugs-results
+*.launch
+/thrift
+*.idea/*
+*.iml
